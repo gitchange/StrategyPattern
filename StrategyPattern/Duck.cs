@@ -15,7 +15,7 @@ namespace StrategyPattern
         protected QuackBehavior quackbehavior;
 
         /// <summary>
-        /// performQuack 方法
+        /// performQuack 方法 777
         /// </summary>
         public void performQuack()
         {
