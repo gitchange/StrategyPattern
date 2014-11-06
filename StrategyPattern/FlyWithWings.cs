@@ -6,8 +6,12 @@ using System.Text;
 namespace StrategyPattern
 {
     /// <summary>
-    /// FlyWithWings 類別
+    /// FlyWithWings 類別 繼承 FlyBehavior
     /// </summary>
+    /// <remark>
+    /// History :
+    /// 2014/11/20 ChangeWu Create
+    /// </remark>
     public class FlyWithWings : FlyBehavior
     {
         /// <summary>
